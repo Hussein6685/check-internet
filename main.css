@@ -24,4 +24,8 @@ ul {
     background: #666;
     color: #fff;
     border-radius: 20px;
+    cursor: pointer;
+}
+.hide {
+    display: none;
 }
